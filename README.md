@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shuraaaews
-- 👀 I’m interested in python, net, medicine
+- 👀 I’m interested in python, llm, medicine
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
